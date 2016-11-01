@@ -8,3 +8,13 @@ date_joined: !!timestamp '2015-10-09 00:00:01'
 tags: python, django, go, docker, scrapy, linux, vim
 id: 1
 
+
+name: Aracele Torres
+email: araceletorres@gmail.com
+blog: http://cibermundi.wordpress.com/
+feed: http://cibermundi.wordpress.com/index.xml
+twitter: araceletorres
+date_joined: !!timestamp '2015-10-09 00:00:01'
+tags: História, KDE
+id: 2
+
